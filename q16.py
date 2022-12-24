@@ -1,7 +1,7 @@
 import numpy as np
 
 whole_string = ""
-with open('q12.txt', 'r') as myfile:
+with open('q16.txt', 'r') as myfile:
     lines = myfile.readlines()
 
 for line in lines:
