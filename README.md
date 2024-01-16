@@ -29,4 +29,4 @@
 
   ## Final Project
   - Phase 1: This project aims to analyze microarray data from individuals with leukemia and compare it with data from healthy individuals to study the potential origins of the disease, focusing on the variations in gene expression that could lead to illness.
-  - Phase 2: ...
+  - Phase 2: In this project, gene expression in acute myeloid leukemia (AML) is analyzed and compared with that of healthy individuals to uncover key genetic differences. Using data analysis tools like "enrichr," the study identifies significant upregulated and downregulated pathways in AML. It highlights the role of genes such as KIT, FLT3, and Bcl-2, and explores their potential in targeted treatment strategies. This approach provides valuable insights into the molecular characteristics of AML and possible therapeutic avenues.
